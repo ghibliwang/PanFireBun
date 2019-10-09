@@ -1,0 +1,32 @@
+2019-09-15 00:49:54 - Starting C:\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\vueLearn\projectName\node_modules\node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\vueLearn\projectName\index.js --log "vueLearn wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-09-15 00:49:54 - Started 13228
+2019-09-15 00:55:02 - Stopping vuelearn.exe
+2019-09-15 00:55:02 - ProcessKill 13228
+2019-09-15 00:55:02 - Found child process: 17100 Name: conhost.exe
+2019-09-15 00:55:02 - Found child process: 7364 Name: node.exe
+2019-09-15 00:55:02 - Stopping process 17100
+2019-09-15 00:55:02 - Send SIGINT 17100
+2019-09-15 00:55:02 - SIGINT to 17100 failed - Killing as fallback
+2019-09-15 00:55:02 - Stopping process 7364
+2019-09-15 00:55:02 - Send SIGINT 7364
+2019-09-15 00:55:02 - SIGINT to 7364 failed - Killing as fallback
+2019-09-15 00:55:02 - Stopping process 13228
+2019-09-15 00:55:02 - Send SIGINT 13228
+2019-09-15 00:55:02 - SIGINT to 13228 failed - Killing as fallback
+2019-09-15 00:55:02 - Finished vuelearn.exe
+2019-09-15 00:55:33 - Starting C:\nodejs\node.exe  --harmony C:\Users\Administrator\Desktop\vueLearn\projectName\node_modules\node-windows\lib\wrapper.js --file C:\Users\Administrator\Desktop\vueLearn\projectName\index.js --log "vueLearn wrapper" --grow 0.25 --wait 1 --maxrestarts 3 --abortonerror n --stopparentfirst undefined
+2019-09-15 00:55:33 - Started 13992
+2019-09-15 00:56:05 - Stopping vuelearn.exe
+2019-09-15 00:56:05 - ProcessKill 13992
+2019-09-15 00:56:05 - Found child process: 9792 Name: conhost.exe
+2019-09-15 00:56:05 - Found child process: 17820 Name: node.exe
+2019-09-15 00:56:05 - Stopping process 9792
+2019-09-15 00:56:05 - Send SIGINT 9792
+2019-09-15 00:56:05 - SIGINT to 9792 failed - Killing as fallback
+2019-09-15 00:56:05 - Stopping process 17820
+2019-09-15 00:56:05 - Send SIGINT 17820
+2019-09-15 00:56:05 - SIGINT to 17820 failed - Killing as fallback
+2019-09-15 00:56:05 - Stopping process 13992
+2019-09-15 00:56:05 - Send SIGINT 13992
+2019-09-15 00:56:05 - SIGINT to 13992 failed - Killing as fallback
+2019-09-15 00:56:05 - Finished vuelearn.exe
